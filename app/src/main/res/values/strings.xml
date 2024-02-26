@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">НМедиа</string>
     <string name="text_name">НМедиа</string>
+    <string name="text">БТПИТ</string>
+    <string name="time">23 февраля в 00:00</string>
 
 
 </resources>

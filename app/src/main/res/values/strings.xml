@@ -3,6 +3,10 @@
     <string name="text_name">НМедиа</string>
     <string name="text">БТПИТ</string>
     <string name="time">23 февраля в 00:00</string>
+    <string name="post_text">Post Text</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_menu">Post menu</string>
+    <string name="description_post_share">Share</string>
 
 
 </resources>
